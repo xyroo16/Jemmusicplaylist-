@@ -214,7 +214,7 @@ let songs = [
         artist: "Glass Animals",
         album: "Dreamland",
         albumArtUrl: "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
-        audioSrc: "audio/Heat Waves - Glass Animals.mp3",
+        audioSrc: "audio/Katy Perry - Unconditionally (Official).mp3",
         videoBgSrc: "videos/Heat Waves - Glass Animals.mp4", // Path video background specifically for this song
         // Lyrics with timestamp in seconds
         lyrics: [
