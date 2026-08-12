@@ -544,9 +544,10 @@ let songs = [
     { time: 147, text: "Nobody can drag me down" },
     { time: 151, text: "Nobody, nobody" },
     { time: 154, text: "Nobody can drag me down" },
-]
+
+        ]
     },
-    ];
+ ];
 
 let currentSongIndex = 0;
 let isPlaying = false;
