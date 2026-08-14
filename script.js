@@ -543,9 +543,18 @@ let songs = [
     { time: 147, text: "Nobody can drag me down" },
     { time: 151, text: "Nobody, nobody" },
     { time: 154, text: "Nobody can drag me down" },
-
         ]
     },
+    {
+    id: 9,
+    title: "Kalapastangan",
+    artist: "Fitterkarma",
+    album: "Kalapastangan",
+    albumArtUrl: "https://i.scdn.co/image/ab67616d0000b27301cb2e736602194466522135",
+    audioSrc: "audio/Your New Song.mp3",
+    videoBgSrc: "",
+    lyrics: []
+},
  ];
 
 let currentSongIndex = 0;
