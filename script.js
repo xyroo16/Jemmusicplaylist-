@@ -47,7 +47,7 @@ let songs = [
     album: "Kalapastangan",
     albumArtUrl: "https://i.scdn.co/image/ab67616d0000b27301cb2e736602194466522135",
     audioSrc: "audio/fitterkarma - Kalapastangan (Lyrics).mp3",
-    videoBgSrc: "kalapastangan.mp4",
+    videoBgSrc: "videos/kalapastangan.mp4",
     lyrics: [
     { time: 5,   text: "Oras nang sambahin ang ngalan Mo" },
     { time: 17,  text: "Para mabuhay habang-buhay sa puso't isipan Mo" },
