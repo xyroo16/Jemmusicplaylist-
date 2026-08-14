@@ -691,20 +691,27 @@ function loadSong(song) {
 
 // New function to render lyrics
 function renderLyrics(lyrics) {
-    lyricsContainer.innerHTML = ''; // Clean the lyrics container
+    lyricsContainer.innerHTML = '';
+
     if (!lyrics || lyrics.length === 0) {
-        lyricsContainer.innerHTML = "<p>Lyrics are not available for this song.</p>";
+        lyricsContainer.innerHTML =
+            "<p>Lyrics are not available for this song.</p>";
         return;
     }
 
-    lyrics.forEach(line => {
+    // Sort lyrics by timestamp
+    const sortedLyrics = [...lyrics].sort(
+        (a, b) => Number(a.time) - Number(b.time)
+    );
+
+    sortedLyrics.forEach(line => {
         const span = document.createElement('span');
+
         span.textContent = line.text;
-        span.setAttribute('data-time', line.time); // Store timestamp in data-attribute
-        span.classList.add('lyric-line'); // Add class for styling
+        span.setAttribute('data-time', line.time);
+        span.classList.add('lyric-line');
+
         lyricsContainer.appendChild(span);
-        // Remove the added <br> manually, using CSS display:block or flexbox
-        // lyrics Container.appendChild(document.createElement('br'));
     });
 }
 
