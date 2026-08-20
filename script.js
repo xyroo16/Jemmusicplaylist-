@@ -74,7 +74,50 @@ let songs = [
 ]
 },
     {
-        id: 2,
+      id: 2,
+    title: "Pagsuko",
+    artist: "Jireh Lim",
+    album: "Pagsuko",
+    albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJMQslmEr4JUu718HRUfMtKOzyzEQssj4zfvlHs-Lvw&s=10",
+    audioSrc: "audio/Pagsuko - Jireh Lim Official Music Video.mp3",
+    videoBgSrc: "video/pagsuko.mp4.mp4",
+    lyrics: [
+    { time: 12.4, text: "Maari ba muna natin tong pag-usapan" },
+    { time: 17.8, text: "Sa dami-rami na ng ating pinagdaanan" },
+    { time: 23.1, text: "Ngayon mo pa ba maiisipang isuko" },
+    { time: 28.5, text: "Ang lahat ng ating pinagsamahan" },
+    { time: 34.2, text: "Masikip sa damdamin, hinigop ng hangin" },
+    { time: 39.5, text: "Ang lakas, pinanghihinaan nang wagas" },
+    { time: 45.1, text: "Pwede bang pag-isipan? Huwag ka munang lumiban" },
+    { time: 50.5, text: "Baka sakali na ito ay maisalba pa" },
+    { time: 52.3, text: "Lumalamig ang gabi" },
+    { time: 59.1, text: "Hindi na tulad ng dati" },
+    { time: 67.3, text: "May pag-asa pa ba kung susuko ka na?" },
+    { time: 74.1, text: "Larawan mo ba'y lulukutin ko na?" },
+    { time: 80.4, text: "Sa hirap at ginhawa, tayo ay nagsama" },
+    { time: 87.4, text: "Damdamin mo tila'y napagod na" },
+    { time: 93.7, text: "Ikaw at ako ay alaala na lang kung susuko ka na" },
+    { time: 107.4, text: "Bawat pangarap na ating pinag-usapan" },
+    { time: 114.4, text: "Pupunta na lang ba ito sa wala?" },
+    { time: 119.4, text: "Hayaan mong ituwid ko ang pagkakamali" },
+    { time: 125.7, text: "Sa mga oras na 'to, alam ko, ikaw ay lito" },
+    { time: 131.9, text: "Lumalamig ang gabi" },
+    { time: 138.4, text: "Hindi na tulad ng dati" },
+    { time: 147.4, text: "May pag-asa pa ba kung susuko ka na?" },
+    { time: 154.2, text: "Larawan mo ba'y lulukutin ko na?" },
+    { time: 160.2, text: "Sa hirap at ginhawa, tayo ay nagsama" },
+    { time: 167.4, text: "Damdamin mo tila'y napagod na" },
+    { time: 173.7, text: "Ikaw at ako ay alaala na lang kung susuko ka na" },
+    { time: 218.4, text: "May pag-asa pa ba kung susuko ka na?" },
+    { time: 225.4, text: "Larawan mo ba'y lulukutin ko na?" },
+    { time: 231.2, text: "Sa hirap at ginhawa, tayo ay nagsama" },
+    { time: 238.7, text: "Damdamin mo tila'y napagod na" },
+    { time: 244.7, text: "Ikaw at ako ay alaala na lang kung susuko ka na" },
+    { time: 250.0, text: "Kung susuko ka na..." }
+]
+ },
+    {
+        id: 3,
         title: "Perfect",
         artist: "One Direction",
         album: "Made in the A.M.",
@@ -201,7 +244,7 @@ let songs = [
         ]
     },    
     {
-        id: 3,
+        id: 4,
         title: "Heat Waves",
         artist: "Glass Animals",
         album: "Dreamland",
@@ -265,7 +308,7 @@ let songs = [
 ]
     },
     {
-        id: 4,
+        id: 5,
         title: "Rewrite the Stars",
         artist: "James Arthur & Anne-Marie",
         album: "The Greatest Showman: Reimagined",
@@ -331,7 +374,7 @@ let songs = [
 ]
     },
     {
-        id: 5,
+        id: 6,
         title: "Beauty And A Beat",
         artist: "Justin Bieber, Nicki Minaj",
         album: "Believe",
@@ -375,7 +418,7 @@ let songs = [
 ]
     },
     {
-        id: 6,
+        id: 7,
         title: "The Day You Said Goodnight",
         artist: "Hale", 
         album: "Hale",
@@ -426,7 +469,7 @@ let songs = [
 ]
     },
     {
-        id: 7,
+        id: 8,
         title: "See You Again",
         artist: "Wiz Khalifa, Charlie Puth",
         album: "Furious 7 (Soundtrack)",
@@ -473,7 +516,7 @@ let songs = [
 ]
     },
     {
-        id: 8,
+        id: 9,
         title: "Drag Me Down",
         artist: "One Direction",
         album: "Made in the A.M.",
@@ -538,7 +581,7 @@ let songs = [
         ]
     },
     {
-    id: 9,
+    id: 10,
         title: "Fallen",
         artist: "Lola Amour",
         album: "Lola Amour",
