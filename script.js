@@ -80,7 +80,7 @@ let songs = [
     album: "Pagsuko",
     albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJMQslmEr4JUu718HRUfMtKOzyzEQssj4zfvlHs-Lvw&s=10",
     audioSrc: "audio/Pagsuko - Jireh Lim Official Music Video.mp3",
-    videoBgSrc: "video/pagsuko.mp4.mp4",
+    videoBgSrc: "videos/pagsuko.mp4.mp4",
     lyrics: [
     { time: 15.00, text: "Maari ba muna natin tong pag-usapan" },
     { time: 21.50, text: "Sa dami-rami na ng ating pinagdaanan" },
