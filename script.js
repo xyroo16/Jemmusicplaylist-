@@ -72,7 +72,7 @@ let songs = [
     { time: 209, text: "Kung ang mundo ay biglang gugunawin" },
     { time: 214, text: "Ikaw ang una kong hahanapin" }
 ]
-},
+  },
     {
       id: 2,
     title: "Pagsuko",
