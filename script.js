@@ -623,6 +623,35 @@ let songs = [
             { time: 193, text: "I said nevermind (I shouldn’t tell you that I’ve fallen)" },
         ]
     },
+    {
+        Id: 11,
+    title: "Muli",
+    artist: "Ace banzuelo",
+    album: "Muli",
+    albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx9trBe_3F3FXsX3TBLh-3eLurSXHc9DVVXe6lI6pZg&s&ec=121966374",
+    audioSrc: "audio/fitterkarma - Kalapastangan (Lyrics).mp3",
+    videoBgSrc: "videos/muli.mp4",
+    lyrics: [
+    { time: 0.7,  text: "’Di maintindihan ang nadarama" },
+    { time: 5.1,  text: "Sarili lang kausap, walang iba" },
+    { time: 8.7,  text: "Kailangan mo raw lumayo sa akin" },
+    { time: 11.9, text: "Wala ba tayong magagawa?" },
+    { time: 15.3, text: "Kinalakihan nati’y iba" },
+    { time: 19.0, text: "Ako sa TAKOT, ikaw sa AWA" },
+    { time: 22.5, text: "Taimtim ang pag-ibig" },
+    { time: 24.0, text: "’Di sang-ayon ang paligid" },
+    { time: 25.8, text: "TINANGGAP KO NANG" },
+    { time: 26.5, text: "WALA KA NA" },
+    { time: 29.0, text: "Ginawa ko ’yon ng ilang taon" },
+    { time: 32.0, text: "Nasasanay na ’kong mag-isa" },
+    { time: 35.8, text: "May mga bagay na nakakaintindi" },
+    { time: 39.0, text: "TAYO LANG DALAWA" },
+    { time: 40.5, text: "WALANG-IBA!" },
+    { time: 42.0, text: "Hindi (hindi)" },
+    { time: 45.8, text: "Hindi ko kayang umibig muli" },
+    { time: 49.0, text: "Habang-buhay na lang kitang hihintayin (hihintayin)" }
+]
+  },
  ];
 
 let currentSongIndex = 0;
