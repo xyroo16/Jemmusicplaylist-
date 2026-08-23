@@ -632,7 +632,7 @@ let songs = [
     audioSrc: "audio/Ace banzuelo - muli (secret verse) - (320 Kbps).mp3",
     videoBgSrc: "videos/muli.mp4",
     lyrics: [
-    { time: 0.7,  text: "’Di maintindihan ang nadarama" },
+    { time: 1.7,  text: "’Di maintindihan ang nadarama" },
     { time: 5.1,  text: "Sarili lang kausap, walang iba" },
     { time: 8.7,  text: "Kailangan mo raw lumayo sa akin" },
     { time: 11.9, text: "Wala ba tayong magagawa?" },
