@@ -629,7 +629,7 @@ let songs = [
     artist: "Ace banzuelo",
     album: "Muli",
     albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx9trBe_3F3FXsX3TBLh-3eLurSXHc9DVVXe6lI6pZg&s&ec=121966374",
-    audioSrc: "audio/fitterkarma - Kalapastangan (Lyrics).mp3",
+    audioSrc: "audio/Ace banzuelo - muli (secret verse) - (320 Kbps).mp3",
     videoBgSrc: "videos/muli.mp4",
     lyrics: [
     { time: 0.7,  text: "’Di maintindihan ang nadarama" },
