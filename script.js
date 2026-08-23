@@ -658,7 +658,7 @@ let songs = [
     artist: "Katy Perry",
     album: "Thinking of You",
     albumArtUrl: "https://i1.sndcdn.com/artworks-000071424952-yr3exh-t500x500.jpg",
-    audioSrc: "audioKaty Perry - Thinking Of You (Official).mp3",
+    audioSrc: "audio/Katy Perry - Thinking Of You (Official).mp3",
     videoBgSrc: "videos/thinking of you.mp4",
     lyrics: [
     { time: 13.6, text: "Comparisons are easily done" },
