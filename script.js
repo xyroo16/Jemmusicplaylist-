@@ -661,7 +661,6 @@ let songs = [
     audioSrc: "audio/Katy Perry - Thinking Of You (Official).mp3",
     videoBgSrc: "videos/thinking of you.mp4",
     lyrics: [
-    lyrics: [
   { time: 13.71, text: "Comparisons are easily done" },
   { time: 20.06, text: "Once you've had a taste of perfection" },
   { time: 26.20, text: "Like an apple hanging from a tree" },
