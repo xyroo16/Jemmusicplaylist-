@@ -712,6 +712,16 @@ let songs = [
   { time: 220.50, text: "'Cause in your eyes I'd like to stay" }
 ]
   },
+    {
+    id: 13,
+    title: "Can't Help Falling in Love",
+    artist: "Elvis Presley",
+    album: "Blue Hawaii",
+    albumArtUrl: "https://f4.bcbits.com/img/a0558110221_16.jpg",
+    audioSrc: "audio/cant-help-falling-in-love.mp3",
+    videoBgSrc: "",
+    lyrics: []
+},
     ];
 
 let currentSongIndex = 0;
