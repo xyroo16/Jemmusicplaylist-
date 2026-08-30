@@ -718,10 +718,27 @@ let songs = [
     artist: "Elvis Presley",
     album: "Blue Hawaii",
     albumArtUrl: "https://f4.bcbits.com/img/a0558110221_16.jpg",
-    audioSrc: "audio/cant-help-falling-in-love.mp3",
-    videoBgSrc: "",
-    lyrics: []
-},
+    audioSrc: "audio/Elvis Presley - Can't Help Falling In Love (Official Audio).mp3",
+    videoBgSrc: "videos/love.mp4",
+   lyrics: [
+  { time: 7.00,  text: "Wise men say only fools rush in" },
+  { time: 21.30, text: "But I can't help falling in love with you" },
+  { time: 35.60, text: "Shall I stay?" },
+  { time: 42.10, text: "Would it be a sin" },
+  { time: 49.50, text: "If I can't help falling in love with you?" },
+  { time: 63.80, text: "Like a river flows surely to the sea" },
+  { time: 67.20, text: "Darling so it goes" },
+  { time: 70.70, text: "Some things are meant to be" },
+  { time: 77.80, text: "Take my hand, take my whole life too" },
+  { time: 88.00, text: "For I can't help falling in love with you" },
+  { time: 109.50, text: "Like a river flows surely to the sea" },
+  { time: 114.20, text: "Darling so it goes" },
+  { time: 117.70, text: "Some things are meant to be" },
+  { time: 124.80, text: "Take my hand, take my whole life too" },
+  { time: 133.00, text: "For I can't help falling in love with you" },
+  { time: 147.50, text: "For I can't help falling in love with you" }
+]
+  },
     ];
 
 let currentSongIndex = 0;
