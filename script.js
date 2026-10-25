@@ -797,7 +797,7 @@ let songs = [
     { time: 249, text: "Baby do it like you do" }, 
 ]
  },        
-     {
+ {
     id: 15,
     title: "ako Ang bagyo",
     artist: "SHEAN",
@@ -852,8 +852,8 @@ let songs = [
     { "time": 256.30, "text": "Kahit pa matunaw ako" },
     { "time": 262, "text": "Dahil ako, ako ang bagyo" }
 ]
-    },
-    ];
+ },
+  ];
 
 let currentSongIndex = 0;
 let isPlaying = false;
