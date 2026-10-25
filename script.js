@@ -796,7 +796,17 @@ let songs = [
     { time: 240, text: "It's all 'bout you, when the music makes you move" },
     { time: 249, text: "Baby do it like you do" }, 
 ]
- },          
+ },        
+     {
+    id: 15,
+    title: "ako Ang bagyo",
+    artist: "SHEAN",
+    album: "ako Ang bagyo",
+    albumArtUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/35/ca/5835cacb-befb-95f1-996c-589dd0c7f600/708208081837_cover.jpg/600x600cc.webp",
+    audioSrc: "audio/akoangbagyo.mp3",
+    videoBgSrc: "videos/akoangbagyo.mp4",
+    lyrics: []
+},
     ];
 
 let currentSongIndex = 0;
