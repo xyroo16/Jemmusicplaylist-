@@ -824,7 +824,7 @@ let songs = [
     { "time": 116, "text": "Matakot na kayo" },
     { "time": 121, "text": "Ako, ako, ako ang bagyo" },
     { "time": 125, "text": "Kulimlim ng langit sa inyong dalawa" },
-    { "time": 131, "text": "Bulong ko sa hangin *sana ’di kayo masaya* },
+    { "time": 131, "text": "Bulong ko sa hangin *sana ’di kayo masaya* " },
     { "time": 136.80, "text": "Sa tibay ng bahay na titirhan niyo" },
     { "time": 142, "text": "Tatangayin ko bawat yero" },
     { "time": 148, "text": "Dilim ng paligid buhos ng emosyon" },
